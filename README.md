@@ -6,13 +6,13 @@ the program can add a cloumn into Cities table and Streets table which where you
 You can even search for all steets from a certain city.
 you can switch languages.
 ___________________________________________________________________________________________
-![1](https://user-images.githubusercontent.com/80118008/127730308-4528d123-da30-4e43-b3ab-90d1c418117d.PNG)
+![1](https://user-images.githubusercontent.com/80118008/127730693-18d137b1-930a-441c-a5a3-60e462995c73.PNG)
 ___________________________________________________________________________________________
-![2](https://user-images.githubusercontent.com/80118008/127730313-bea860be-f425-4297-a07e-3e0723af11ff.PNG)
+![2](https://user-images.githubusercontent.com/80118008/127730700-a944e9b0-8ff6-431e-a72a-58f5a989e0ba.PNG)
 ___________________________________________________________________________________________
-![3](https://user-images.githubusercontent.com/80118008/127730316-b350a14e-ada6-4e42-9de3-932b41949d87.PNG)
+![3](https://user-images.githubusercontent.com/80118008/127730705-ed04f259-fb15-4fd3-81a6-c681529bfdea.PNG)
 ___________________________________________________________________________________________
-![4](https://user-images.githubusercontent.com/80118008/127730317-a0d84e6c-6d11-41a5-901b-88941fe062fe.PNG)
+![4](https://user-images.githubusercontent.com/80118008/127730710-266e60ee-9c79-4103-aa62-00b37871d7ab.PNG)
 ___________________________________________________________________________________________
 # Add a new column into a table from the form into ssms:
 ![5](https://user-images.githubusercontent.com/80118008/127730569-39b1852e-ba7a-4000-9f34-084662e3a7eb.PNG)
