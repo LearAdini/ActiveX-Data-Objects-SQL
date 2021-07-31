@@ -1,9 +1,8 @@
 # ActiveX-Data-Objets-SQL
 ADO.NET SQL Connection management program
-Where you can view data tables from ssms.
-The GUI is made by me using vs winform project.
-The program can add a column into a manually added table (in this case Cities and Streets data tables).
-You can  search for all streets in a certain city.
+The program can view data tables from ssms And add columns into a manually added table (in this case Cities and Streets data tables).
+The GUI is made by me I used vs (winform project).
+You can search for all streets in a certain city.
 You can switch between two languages.
 ___________________________________________________________________________________________
 ![1](https://user-images.githubusercontent.com/80118008/127730693-18d137b1-930a-441c-a5a3-60e462995c73.PNG)
