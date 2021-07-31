@@ -15,21 +15,21 @@ ________________________________________________________________________________
 ![4](https://user-images.githubusercontent.com/80118008/127730317-a0d84e6c-6d11-41a5-901b-88941fe062fe.PNG)
 ___________________________________________________________________________________________
 # Add a new column into a table from the form into ssms:
-![5](https://user-images.githubusercontent.com/80118008/127730322-5a2a1a09-9bed-45bd-8a90-904198075f20.PNG)
+![5](https://user-images.githubusercontent.com/80118008/127730569-39b1852e-ba7a-4000-9f34-084662e3a7eb.PNG)
 ___________________________________________________________________________________________
-![6](https://user-images.githubusercontent.com/80118008/127730324-84f14efe-4dbb-4acd-9b26-f6e328e5d7aa.PNG)
+![6](https://user-images.githubusercontent.com/80118008/127730571-0016979d-24bb-4c74-9bac-b01daba74e6e.PNG)
 ___________________________________________________________________________________________
-![7](https://user-images.githubusercontent.com/80118008/127730326-7a78c4a9-45d8-4963-a4cd-deb9ccb8eb69.PNG)
+![7](https://user-images.githubusercontent.com/80118008/127730573-7d6d865e-a72d-46c8-a920-a525b362acc6.PNG)
 ___________________________________________________________________________________________
-![8](https://user-images.githubusercontent.com/80118008/127730335-944f9daa-0d7d-4617-b090-d2d66b863a00.PNG)
+![8](https://user-images.githubusercontent.com/80118008/127730578-64a8887a-aafc-4de4-b90a-0616959dc5a0.PNG)
 ___________________________________________________________________________________________
-![9](https://user-images.githubusercontent.com/80118008/127730337-8f3341ad-d7ef-4ee4-b721-38221557eed3.PNG)
+![9](https://user-images.githubusercontent.com/80118008/127730585-0036ed2b-9562-4308-a765-27886146a9a7.PNG)
 ___________________________________________________________________________________________
-
+![10](https://user-images.githubusercontent.com/80118008/127730588-92b253cf-63e0-41be-a3b2-39725a8b5522.PNG)
 ___________________________________________________________________________________________
-
+![11](https://user-images.githubusercontent.com/80118008/127730594-9ba714c7-1b4e-436c-8080-2435ac82490b.PNG)
 ___________________________________________________________________________________________
-Change Language:
+# Change Language:
 
 ![12](https://user-images.githubusercontent.com/80118008/127730356-78d3a5a0-7a5d-4b43-b40f-d42f61560eff.PNG)
 
