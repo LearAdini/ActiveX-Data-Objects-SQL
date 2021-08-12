@@ -13,6 +13,7 @@ You can search for all streets in a certain citymand you can Add a city or a str
 
 ![44](https://user-images.githubusercontent.com/80118008/127731207-57695b18-3dd1-4101-abc9-84eab4bf1d79.PNG)
 
+
 ## Add a new column into a table:
 ![5](https://user-images.githubusercontent.com/80118008/127730569-39b1852e-ba7a-4000-9f34-084662e3a7eb.PNG)
 
